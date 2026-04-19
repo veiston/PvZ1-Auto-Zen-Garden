@@ -1,5 +1,5 @@
 # Plants versus Zombies 1 Zen Garden automaton
-<img width="100%" alt="PvZ-Zen-Garden-Gif" src="https://github.com/user-attachments/assets/b6cf39b1-1f33-43f9-8ee7-5513b7c586bc" />
+<img width="80%" alt="PvZ-Zen-Garden-Gif" src="https://github.com/user-attachments/assets/b6cf39b1-1f33-43f9-8ee7-5513b7c586bc" />
 
 
 It can:

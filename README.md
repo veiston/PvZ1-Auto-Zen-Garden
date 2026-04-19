@@ -16,7 +16,8 @@
 - Auto-sell plants when they are fully grown
 - MAYBE: Auto-grind survival endless for more plants
 
-Should be OS agnostic
+Should be OS agnostic.
+
 Based on Al Sweigart's pyautogui.
 
 ## -Veikka

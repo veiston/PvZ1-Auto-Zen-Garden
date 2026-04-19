@@ -1,5 +1,6 @@
-# Plants versus Zombies 1 Zen Garden automaton
-<img width="533" height="400" alt="image of my pvz zen garden" src="https://github.com/user-attachments/assets/2b872827-0e0b-421c-b776-28fc19ffd62a" />
+# Plants vs. Zombies 1: Zen Garden Automaton
+<img width="75%" alt="PvZ-Zen-Garden-Gif" src="https://github.com/user-attachments/assets/b6cf39b1-1f33-43f9-8ee7-5513b7c586bc" />
+
 
 It can:
 - Water plants
@@ -15,4 +16,7 @@ ToDo:
 - Auto-sell plants when they are fully grown
 - MAYBE: Auto-grind survival endless for more plants
 
+Should be OS agnostic
 Based on Al Sweigart's pyautogui.
+
+-Veikka

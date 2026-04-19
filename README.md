@@ -3,7 +3,20 @@
 
 The bot in action
 
-On MacOS, please install ```Xcode command line tools``` to run this.
+
+
+## Install
+
+```bash
+pip install -r requirements.txt
+```
+On MacOS, please also install ```Xcode command line tools``` to run this.
+
+## Run
+
+```bash
+python main.py
+```
 
 ## It can:
 - Water plants

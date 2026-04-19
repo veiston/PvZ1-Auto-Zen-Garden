@@ -3,6 +3,7 @@ from pathlib import Path
 import pyautogui
 
 BASE_DIR = Path(__file__).resolve().parent
+IMAGES_DIR = BASE_DIR / "images"
 retryDelay = 0.01
 
 
@@ -10,7 +11,7 @@ def resolve_image_path(path):
     p = Path(path)
     if p.is_absolute():
         return str(p)
-    return str(BASE_DIR / p)
+    return str(IMAGES_DIR / p)
 
 def image_file(name):
     return resolve_image_path(name)

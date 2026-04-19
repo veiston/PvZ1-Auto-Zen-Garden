@@ -1,5 +1,6 @@
 # Plants versus Zombies 1 Zen Garden automaton
-https://github.com/user-attachments/assets/5112264f-2cdb-46ed-ac5e-b5992a3bff86
+<img width="400" height="225" alt="PvZ" src="https://github.com/user-attachments/assets/b6cf39b1-1f33-43f9-8ee7-5513b7c586bc" />
+
 
 It can:
 - Water plants
